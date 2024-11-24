@@ -54,7 +54,7 @@ function Navbar() {
       gsap.to(buttonRef.current, {
         scale: 1.1,
         rotate: 3,
-        boxShadow: "0px 10px 15px rgba(0, 0, 0, 0.2)",
+        boxShadow: "0px 10px 15px rgba(0, 0, 0, 0.3)",
         duration: 0.3,
         ease: "power1.out",
       });
